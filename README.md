@@ -7,6 +7,7 @@ Objectives:
 The specific objectives of this project include:
 
 1.Importing the necessary libraries for machine learning and image processing.
+
 2.Setting up data generators for the training, validation, and test datasets using ImageDataGenerator. This includes converting images to floating-point tensors and rescaling their values to be between 0 and 1.
 3.Augmenting the training data by applying random transformations to reduce the risk of overfitting.
 4.Creating a CNN model using Keras Sequential API that consists of convolutional layers, max-pooling layers, and a fully connected layer with ReLU activation.
