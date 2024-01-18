@@ -1,6 +1,7 @@
 # CatAndDogImageClassifier
 
 Project Description:
+
 This project is a machine learning project focused on creating an image classifier using TensorFlow 2.0 and Keras. The goal of the project is to build a convolutional neural network (CNN) that can correctly classify images of cats and dogs. The dataset used for this project contains labeled images of cats and dogs for training and validation, and unlabeled test images for final evaluation.
 
 Objectives:
